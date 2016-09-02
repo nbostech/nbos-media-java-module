@@ -1,7 +1,7 @@
-package com.nbos.capi.modules.media.v0;
+package io.nbos.capi.modules.media.v0;
 
-import com.nbos.capi.api.v0.models.RestMessage;
-import com.nbos.capi.modules.media.v0.models.MediaApiModel;
+import io.nbos.capi.api.v0.models.RestMessage;
+import io.nbos.capi.modules.media.v0.models.MediaApiModel;
 
 import java.util.Map;
 
